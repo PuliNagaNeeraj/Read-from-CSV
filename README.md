@@ -30,7 +30,7 @@ print("Number of rows:",len(df.axes[0))
 print("NUmber of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![image](https://github.com/PuliNagaNeeraj/Read-from-CSV/assets/138849173/d48fbb59-263e-4cb1-b3b7-4da86f339fc8)
+![Screenshot 2023-12-24 154825](https://github.com/PuliNagaNeeraj/Read-from-CSV/assets/138849173/0a4574f2-6152-4dcd-a52a-98fe896a2b82)
 ![Screenshot 2023-12-24 154856](https://github.com/PuliNagaNeeraj/Read-from-CSV/assets/138849173/7a7b4044-e66e-4d67-b827-af3f60d783c0)
 
 ## RESULT:
