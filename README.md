@@ -16,16 +16,19 @@ Print the output
 
 ## PROGRAM:
 ```
-# Developed by: Kavinraja D
-# Register Number: 22007928
+# Developed by: Azeez Ahamad
+# Register Number: 23003977
 import pandas as pd
-df = pd.read_csv('pandascsv.csv')
+df = pd.read_csv("nba.csv")
 print(df.head(10))
 print(df.tail())
-print("Number of rows:",len(df.axes[0]))
-print("Number of columns:",len(df.axes[1]))
+print("Number of rows:",len(df.axes[0))
+print("NUmber of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Screenshot 2023-12-24 095002](https://github.com/2005Mukesh/Read-from-CSV/assets/138849308/154e533c-1e64-4c6a-918d-fb586b585f0b)
+![image](https://github.com/AzeezBT/Read-from-CSV/assets/150319523/bfe36955-cd48-4b2e-ba5c-ef7d51ae0f0f)
+![image](https://github.com/AzeezBT/Read-from-CSV/assets/150319523/f1249d41-8d6d-40f6-9bf8-6390600e1468)
+
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file
