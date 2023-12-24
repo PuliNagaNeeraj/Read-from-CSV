@@ -19,8 +19,8 @@ Use len() method to get the number of rows and columns.
 Print the output
 
 ## PROGRAM:
-# Developed by: PULI NAGA NEERAJ
-# Register Number: 23004033
+### Developed by: PULI NAGA NEERAJ
+### Register Number: 23004033
 import pandas as pd
 df = pd.read_csv("nba.csv")
 print(df.head(10))
